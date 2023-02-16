@@ -1,0 +1,22 @@
+{
+  "bookmarks": [
+    {
+      "title": "Google",
+      "url": "https://www.google.com",
+      "description": "Arama Motoru",
+      "id": 1
+    },
+    {
+      "title": "Vue-Js",
+      "url": "https://vuejs.org",
+      "description": "Javascript Framework",
+      "id": 2
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com",
+      "description": "Video Paylaşım Platformu",
+      "id": 3
+    }
+  ]
+}
